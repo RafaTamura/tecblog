@@ -1,1 +1,5 @@
-Esse foi o meu primeiro projetinho de HTML 5, existe algumas gambiarras, mas não vou consertar por ter sido o primeiro de vários, estou muito feliz que vou postar, ele foi feito em abril de 2022, logo após um período bem complicado.
+## TecBlog
+
+Esse foi o meu primeiro projetinho de HTML com CSS, existe algumas gambiarras, mas estou feliz com o resultado, espero aprimorar muito mais, ele foi feito em abril de 2022. 
+
+Que época.
