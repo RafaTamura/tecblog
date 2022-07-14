@@ -1,0 +1,107 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background: #EFEFEC;
+}
+#topo{
+	background: #F2C51D;
+	width: auto;
+	height:150px ;
+}
+span{
+	font-family: Trebuchet MS, sans-serif;
+	color: white;
+	text-align: center;
+	font-size: 50px;
+
+}
+.letratopo{
+	font-family: Trebuchet MS, sans-serif;
+	text-align: center;
+	font-size: 50px;
+	color: #504702;
+	padding: 20px;
+}
+.links{
+	margin-left: 350px;
+
+}
+.links a{
+	padding: 10px;
+	text-decoration: none;
+	font-family: Trebuchet MS, sans-serif;
+	color: #fff;
+	font-size: 20px;
+	margin-left: 20px ;
+}
+.links a:link, .links a: visited {
+	color: #fff;
+}
+
+.links a:hover{
+	background: white;
+	color: #F2C51D;
+}
+#principal{
+	background: white;
+	width: 920px;
+	height: 920px;
+	margin: 20px auto;
+}
+.postagem{
+	background: #fff;
+	width: 660px;
+	float: left;
+}
+.lateral{
+	background: #ccc;
+	width: 260px;
+	float: right;
+}
+.lateral2{
+	background: #ccc;
+	width: 260px;
+	float: right;
+}
+
+.rodape{
+	background: #ccc;
+	clear: both;
+	text-align: center;
+	font-family: Trebuchet MS, sans-serif;
+}
+.conteudo{
+	font-family: Trebuchet MS, sans-serif;
+	color: #F2C51D;
+	padding: 10px;
+}
+.post{
+	font-size: 13px;
+	color: black;
+}
+.leia{
+	font-family: Trebuchet MS, sans-serif;
+	color: #F2C51D;
+	text-decoration: none;
+	font-size: 15px;
+}
+h3{
+	font-family: Trebuchet MS, sans-serif;
+	color: #454545;
+	padding: 5px;
+	text-align: center;
+}
+.linkslaterais{
+	float: left;
+}
+.letras{
+	padding: 30px;
+	margin: 0px -10px;
+	text-decoration: none;
+	color: #F2C51D;
+	text-align: center;
+	font-family: Trebuchet MS, sans-serif;
+	font-size: 15px;
+}
